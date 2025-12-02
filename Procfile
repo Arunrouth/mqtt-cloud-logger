@@ -1,1 +1,3 @@
-worker: python Cmqtt_cloudmqtt_supabase.py
+worker: python main.py
+
+
